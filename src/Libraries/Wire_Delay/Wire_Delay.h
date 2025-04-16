@@ -1,4 +1,5 @@
 #ifndef TwoWire_h
+//Привет, Макс)))
 #define TwoWire_h //Для совместимости
 #define Wire_Delay_h
 
